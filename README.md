@@ -1,1 +1,1 @@
-# praktikum---Pengolahan-Citra
+# Praktikum Mata Kuliah Pengolahan Citra (Image Processing)
